@@ -3,9 +3,14 @@
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
 | Muhammad Rizky Abdillah | TI.20.A2 | 312010386 | Bahasa Pemrograman |
+## Daftar Isi
+| No | ISI | PENJELASAN | 
+| -- | --- | ---------- | 
+| 1. | Latihan Praktikum 4 | [penjelasan](#TugasLatihan-4) | 
+| 2. | Tugas Praktium 4 | [penjelasan](#TugasPraktikum-4) | 
 
-## Tugas Latihan 4
-![gambar output](gambar/soallatihan.png)
+## TugasLatihan 4
+![gambar output](gambar/latihan4.png)
 
 ## Hasil Source Code
 ```python
@@ -37,7 +42,7 @@ print("════════════════════════�
 ## Hasil Output 
 ![gambar output](gambar/Hasillatihan4.png)
 
-## Tugas Praktikum 4
+## TugasPraktikum 4
 ![gambar output](gambar/soalpraktikum4.PNG)
 
 ## Hasil Source Code
