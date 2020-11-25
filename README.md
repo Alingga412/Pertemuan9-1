@@ -5,7 +5,7 @@
 | Muhammad Rizky Abdillah | TI.20.A2 | 312010386 | Bahasa Pemrograman |
 
 ## Tugas Latihan 4
-![gambar output](gambar/latihan.PNG)
+![gambar output](gambar/soallatihan.png)
 
 ## Hasil Source Code
 ```python
@@ -35,7 +35,7 @@ print ("mengabungkan list A dan B : " ,dataa + datab)
 print("══════════════════════════════════════")
 ```
 ## Hasil Output 
-![gambar output](gambar/Hasillatihan4.PNG)
+![gambar output](gambar/Hasillatihan4.png)
 
 ## Tugas Praktikum 4
 ![gambar output](gambar/soalpraktikum4.PNG)
@@ -116,7 +116,7 @@ for item in nilai:
 print("==================================================================")
 ```
 Berikut hasil dari program data mahasiswa 
-![gambar output](gambar/hasilpraktikum4.PNG)
+![gambar output](gambar/hasilpraktikum4.png)
 
 
 
